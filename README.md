@@ -4,6 +4,8 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
 
 🔭 Always open to new challenges and changes to make a difference. 🌎
 
+☆ Que a gente nunca desaprenda a recomeçar <-
+
 - 👩🏻‍💻 Student Full Stack - in a Stackx
 - 📍 From Goiania - GO
 - 📚 I speak some french, english and spanish
