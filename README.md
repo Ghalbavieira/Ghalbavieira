@@ -16,7 +16,7 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghalbavieira&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghalbavieira&layout=compact&langs_count=7&theme=nightowl"/>-->
 </div>
-  <h1>Linguagens</h1>
+  <h1 align="center">Linguagens</h1>
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Ghalbavieira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ghalbavieira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,9 +32,9 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
   ##
  <h1>Ferramentas</h1>
   <div style="display: inline_block" align="center"><br>
-   <img align="center" alt="Ghalbavieira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Ghalbavieira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ghalbavieira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Ghalbavieira-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Ghalbavieira-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Ghalbavieira-eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-plain.svg">
   <img align="center" alt="Ghalbavieira-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ghalbavieira-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="Ghalbavieira-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
