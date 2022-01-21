@@ -23,8 +23,8 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
   <img align="center" alt="Ghalbavieira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ghalbavieira-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ghalbavieira-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-  <img align="center" alt="Ghalbavieira-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-    <img align="center" alt="Ghalbavieira-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="Ghalbavieira-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Tailwind/Tailwind-original.svg"> 
+    <img align="center" alt="Ghalbavieira-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Ghalbavieira-.net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.net/.net-original.svg">
  <!-- <img align="center" alt="Ghalbavieira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ghalbavieira-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -37,9 +37,6 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
    <img align="center" alt="Ghalbavieira-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ghalbavieira-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ghalbavieira-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Ghalbavieira-Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Eclipse/Eclipse-plain.svg">
-  <img align="center" alt="Ghalbavieira-firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"> 
-    <img align="center" alt="Ghalbavieira-trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg"> 
   <img align="center" alt="Ghalbavieira-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 <div> 
   
