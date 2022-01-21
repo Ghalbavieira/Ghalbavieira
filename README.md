@@ -55,3 +55,9 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/codethi/codethi/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
     <img src="https://github.com/codethi/codethi/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
     </p>
+    
+     - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.Ghalbavieira}}
+          svg_out_path: dist/github-contribution-grid-snake.svg
