@@ -16,6 +16,7 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghalbavieira&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghalbavieira&layout=compact&langs_count=7&theme=nightowl"/>-->
 </div>
+  <h1>Linguagens</h1>
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Ghalbavieira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ghalbavieira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
