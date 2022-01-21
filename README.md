@@ -24,9 +24,7 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
   <img align="center" alt="Ghalbavieira-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ghalbavieira-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="Ghalbavieira-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Tailwind/Tailwind-original.svg"> 
- <img align="center" alt="Ghalbavieira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ghalbavieira-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+ <img align="center" alt="Ghalbavieira-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   
   ##
  <h1>Ferramentas</h1>
@@ -47,8 +45,4 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
   <a href="https://www.linkedin.com/in/ghalba-vieira-2b4a01168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ##
- <h1>Cloud</h1>
-  <div style="display: inline_block" align="center"><br>
-   <img align="center" alt="Ghalbavieira-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
-     <img align="center" alt="Ghalbavieira-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-<div> 
+
