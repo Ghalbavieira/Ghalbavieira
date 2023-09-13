@@ -6,9 +6,9 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
 
 ☆ Que a gente nunca desaprenda a recomeçar <-
 
-- 👩🏻‍💻 Student Full Stack - in a Stackx
+- 👩🏻‍💻 Student FRONT END - in a Stackx
 - 📍 From Goiania - GO
-- 📚 I speak some french, english and spanish
+- 📚 I speak some French, English and Spanish
 - 🖥 Showing a little of my trajectory
 
 <div align="center">
@@ -25,6 +25,7 @@ My name is a **Ghalba Vieira**, I’m from Brazil 🇧🇷  I’m a student a So
  
   <img align="center" alt="Ghalbavieira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Ghalbavieira-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+ <img align="center" alt="Ghalbavieira-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <!--  <img align="center" alt="Ghalbavieira-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ghalbavieira-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   
