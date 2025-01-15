@@ -1,16 +1,20 @@
-## Hi there 👋
+👩‍💻 Olá! Eu sou Ghalba Vieira 🚀
 
-<!--
-**Ghalbavieira/Ghalbavieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma **desenvolvedora Front-end** apaixonada por criar interfaces modernas, funcionais e responsivas. Sempre em busca de desafios que me permitam aprender e crescer na área de tecnologia!
 
-Here are some ideas to get you started:
+## 🎓 Formação Acadêmica
+- **Graduação**: Análise e Desenvolvimento de Sistemas - Estácio  
+- **Pós-graduação**: Engenharia de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens**: JavaScript, TypeScript  
+- **Frameworks/Libraries**: React  
+- **Cloud**: Azure  
+- **Ferramentas e Metodologias**: Git, Scrum, Agile
+
+## 🌐 Conecte-se comigo
+- [Instagram](https://www.instagram.com/ghalbavieira.tech)  
+- [LinkedIn](https://www.linkedin.com/in/Ghalbavieira) 
+- 📧 Email: gghalba@gmail.com
+
+✨ *"Transformando ideias em experiências digitais incríveis."*  
