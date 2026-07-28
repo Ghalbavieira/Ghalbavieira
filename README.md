@@ -81,7 +81,7 @@ Laboratório baseado em um incidente real de conectividade, documentando o proce
 
 ---
 
-## O que estou construindo
+## O que estou  construindo
 
 Meu foco atual é consolidar uma base técnica que una:
 
