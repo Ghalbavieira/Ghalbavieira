@@ -27,22 +27,37 @@ Atualmente também desenvolvo produtos próprios na **Sensory Digital**, incluin
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  ###Linguagens
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+**Linguagens**
+
+`JavaScript` `TypeScript` `Python` `HTML` `CSS`
+
+**Front-End**
+
+`React` `Next.js` `Vite` `Tailwind CSS`
+
+**Back-End & Integrações**
+
+`Node.js` `NestJS` `REST APIs` `GraphQL` `Webhooks`
+
+**Dados**
+
+`Firebase` `Supabase` `MySQL` `SQL`
+
+**Infra & DevOps**
+
+`Docker` `Azure` `Git` `GitHub Actions` `CI/CD`
+
+**Automação & IA**
+
+`n8n` `Ollama` `AI-assisted Development`
+
+---
 
  
 <div> 
   ##Contato
   <a href = "mailto:gghalba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ghalbavieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 <div>
