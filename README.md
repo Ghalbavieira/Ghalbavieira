@@ -16,13 +16,10 @@ Atualmente também desenvolvo produtos próprios na **Sensory Digital**, incluin
 
 ## Atualmente estudando e aprofundando
 
-- Engenharia de Software
-- Arquitetura de Software
-- Node.js e desenvolvimento Back-End
-- Redes e fundamentos de computação
+- Desenvolvimento Full Stack e Engenharia/Arquitetura de Software
 - AppSec e desenvolvimento seguro
-- Cloud e containers
-- Inteligência Artificial aplicada a produtos
+- Redes, Cloud e infraestrutura
+- Inteligência Artificial aplicada a software
 
 ---
 
